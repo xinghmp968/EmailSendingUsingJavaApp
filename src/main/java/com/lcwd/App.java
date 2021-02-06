@@ -16,7 +16,7 @@ import javax.mail.internet.MimeMultipart;
 public class App {
 	public static void main(String[] args) {
 		
-		System.out.println("preparing to send message ...");
+	     	System.out.println("preparing to send message ...");
 		String message = "Hello , Dear, this is message for security check . ";
 		String subject = "CodersArea : Confirmation";
 		String to = "sinmp968@gmail.com";
